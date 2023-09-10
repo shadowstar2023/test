@@ -7,9 +7,9 @@ export TLS=${TLS:-'0'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-'test.ccav1.eu.org '}
 export WEB_DOMAIN=${WEB_DOMAIN:-'test-ws.ccav1.eu.org '}
 export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"96bef05b0993c4a7876c2cd52a34b7de","TunnelSecret":"XYnvPbcMOrEDOxV+TuDGS54AqQpqhLlGsW3sGrAvjwg=","TunnelID":"b009d633-64bf-4859-9b23-0e70979b937c"}'}
-export WSPATH=${WSPATH:-'argo'}
+export WSPATH=${WSPATH:-'sslav'}
 export UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-export CFIP=${CFIP:-'icook.hk'}
+export CFIP=${CFIP:-'ip.12138.eu.org'}
 export NAME=${NAME:-'sslav'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 export port1=${port1:-'8080'}
