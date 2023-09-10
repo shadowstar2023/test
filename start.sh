@@ -10,13 +10,13 @@ export NEZHA_SERVER=${NEZHA_SERVER:-'nezha.sslav.eu.org'}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
 export NEZHA_KEY=${NEZHA_KEY:-'testDCrRZcGxpYdYetnOMp'}
 export TLS=${TLS:-'0'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'test.pc12138.eu.org'}
-export WEB_DOMAIN=${WEB_DOMAIN:-'test-ws.pc12138.eu.org'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'test.ccav1.eu.org '}
+export WEB_DOMAIN=${WEB_DOMAIN:-'test-ws.ccav1.eu.org '}
 export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"7a95ef92d80f14eaf741cc4571318fc1","TunnelSecret":"y5QKi8npnb1Hmvnq2nfVkXG2TXD1ZB/kfeFJgPjXw0I=","TunnelID":"6893d863-4521-4bbb-8b64-16d88b322c40"}'}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
 export CFIP=${CFIP:-'icook.hk'}
-export NAME=${NAME:-''}
+export NAME=${NAME:-'sslav'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 export port1=${port1:-'8080'}
 
