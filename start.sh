@@ -12,7 +12,7 @@ export NEZHA_KEY=${NEZHA_KEY:-'testDCrRZcGxpYdYetnOMp'}
 export TLS=${TLS:-'0'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-'test.ccav1.eu.org '}
 export WEB_DOMAIN=${WEB_DOMAIN:-'test-ws.ccav1.eu.org '}
-export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"7a95ef92d80f14eaf741cc4571318fc1","TunnelSecret":"y5QKi8npnb1Hmvnq2nfVkXG2TXD1ZB/kfeFJgPjXw0I=","TunnelID":"6893d863-4521-4bbb-8b64-16d88b322c40"}'}
+export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"96bef05b0993c4a7876c2cd52a34b7de","TunnelSecret":"XYnvPbcMOrEDOxV+TuDGS54AqQpqhLlGsW3sGrAvjwg=","TunnelID":"b009d633-64bf-4859-9b23-0e70979b937c"}'}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
 export CFIP=${CFIP:-'icook.hk'}
