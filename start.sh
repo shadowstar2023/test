@@ -1,16 +1,15 @@
 #!/usr/bin/env bash
 
-export NEZHA_SERVER=${NEZHA_SERVER:-'nezha.sslav.eu.org'}
-export NEZHA_PORT=${NEZHA_PORT:-'5555'}
-export NEZHA_KEY=${NEZHA_KEY:-'Ok4KxU0PQwpUdLnCf7'}
+export NEZHA_SERVER=${NEZHA_SERVER:-'nezha.130136.xyz'}
+export NEZHA_PORT=${NEZHA_PORT:-'443'}
+export NEZHA_KEY=${NEZHA_KEY:-'aGS2hOtNSkQdcu7Wyk'}
 export TLS=${TLS:-'0'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'test.ccav1.eu.org '}
-export WEB_DOMAIN=${WEB_DOMAIN:-'test-ws.ccav1.eu.org '}
-export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"96bef05b0993c4a7876c2cd52a34b7de","TunnelSecret":"XYnvPbcMOrEDOxV+TuDGS54AqQpqhLlGsW3sGrAvjwg=","TunnelID":"b009d633-64bf-4859-9b23-0e70979b937c"}'}
-export WSPATH=${WSPATH:-'sslav'}
-export UUID=${UUID:-'d342d11e-d424-4583-b36e-524ab1f0afa4'}
-export CFIP=${CFIP:-'ip.12138.eu.org'}
-export NAME=${NAME:-'sslav'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
+export WEB_DOMAIN=${WEB_DOMAIN:-''}
+export ARGO_AUTH=${ARGO_AUTH:-'{''}
+export UUID=${UUID:-'0c1dfab3-5a2b-4da0-9437-8784bf7934ac'}
+export CFIP=${CFIP:-'skk.moe'}
+export NAME=${NAME:-'sys'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 export port1=${port1:-'8080'}
 
